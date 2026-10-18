@@ -1,0 +1,721 @@
+ticket_id,text,category,priority
+TKT-0633,Please help: Change the organization owner. I need an update soon.  Awaiting an update.,Account & Subscription,Medium
+TKT-0092,Customer message: Single sign on authentication fails. Critical business impact; please help immediately.  Awaiting an update.,Access & Login,High
+TKT-0201,Please help: Payment declined on checkout. This is impacting my usual workflow.  Awaiting an update.,Billing & Payments,Medium
+TKT-0228,Customer message: Need a refund for an order. I need an update soon.  Please advise.,Billing & Payments,Medium
+TKT-0428,Please help: Mobile app freezes during startup. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Technical Bug,High
+TKT-0497,"Hello team, Need an option to schedule reports. Production is blocked right now. ASAP!  Can someone help?",Feature Request,High
+TKT-0007,"Hello team, Cannot log in to my account. No rush, whenever you have time.  Please advise.",Access & Login,Low
+TKT-0152,Charged twice for my subscription. This is a suggestion for a future release.,Billing & Payments,Low
+TKT-0278,"Hello team, Receipt is missing from my billing history. This is impacting my usual workflow.",Billing & Payments,Medium
+TKT-0372,Customer message: Integration webhook stops working. This is impacting my usual workflow.  Awaiting an update.,Technical Bug,Medium
+TKT-0662,"Hi support, Update my account profile details. Please resolve this within a few days.  Please advise.",Account & Subscription,Medium
+TKT-0307,Customer message: Dashboard crashes after saving. Production is blocked right now. ASAP!,Technical Bug,High
+TKT-0684,Please help: Switch subscription from monthly to annual. Please resolve this within a few days.  Please advise.,Account & Subscription,Medium
+TKT-0334,"Hello team, Application shows an error 500. Production is blocked right now. ASAP!  Awaiting an update.",Technical Bug,High
+TKT-0108,Please help: Multi factor code is not arriving. This is impacting my usual workflow.  Can someone help?,Access & Login,Medium
+TKT-0493,Customer message: Need an option to schedule reports. I need an update soon.  This affects our workflow.,Feature Request,Medium
+TKT-0711,Customer message: Delete my account and data. Please resolve this within a few days.  This affects our workflow.,Account & Subscription,Medium
+TKT-0718,Delete my account and data. URGENT: our team cannot work until this is fixed.  Can someone help?,Account & Subscription,High
+TKT-0598,Customer message: Cancel my subscription next month. Production is blocked right now. ASAP!  Awaiting an update.,Account & Subscription,High
+TKT-0517,Please help: Would love a custom dashboard widget. Please resolve this within a few days.  Please advise.,Feature Request,Medium
+TKT-0475,Request: Can you support csv bulk import. Critical business impact; please help immediately.  Thanks.,Feature Request,High
+TKT-0595,Customer message: Cancel my subscription next month. Production is blocked right now. ASAP!  Thanks.,Account & Subscription,High
+TKT-0379,Please help: Integration webhook stops working. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Technical Bug,High
+TKT-0429,"Hello team, Mobile app freezes during startup. Critical business impact; please help immediately.  Thanks.",Technical Bug,High
+TKT-0204,"Hi support, Payment declined on checkout. I need an update soon.  Thanks.",Billing & Payments,Medium
+TKT-0160,Charged twice for my subscription. Please resolve this within a few days.  Can someone help?,Billing & Payments,Medium
+TKT-0709,Customer message: Delete my account and data. Please resolve this within a few days.,Account & Subscription,Medium
+TKT-0545,Customer message: Please add team activity notifications. URGENT: our team cannot work until this is fixed.  Thanks.,Feature Request,High
+TKT-0287,Request: Receipt is missing from my billing history. Critical business impact; please help immediately.  Awaiting an update.,Billing & Payments,High
+TKT-0319,"Please help: Application shows an error 500. No rush, whenever you have time.  Can someone help?",Technical Bug,Low
+TKT-0498,"Hi support, Need an option to schedule reports. Critical business impact; please help immediately.  Awaiting an update.",Feature Request,High
+TKT-0578,Customer message: Cancel my subscription next month. Not blocking work; just checking.  Awaiting an update.,Account & Subscription,Low
+TKT-0467,Customer message: Can you support csv bulk import. Please resolve this within a few days.  Please advise.,Feature Request,Medium
+TKT-0646,Change the organization owner. Critical business impact; please help immediately.  Can someone help?,Account & Subscription,High
+TKT-0006,"Customer message: Cannot log in to my account. No rush, whenever you have time.  Thanks.",Access & Login,Low
+TKT-0037,"Hello team, Password reset link is failing. This is impacting my usual workflow.  Awaiting an update.",Access & Login,Medium
+TKT-0039,Request: Password reset link is failing. I need an update soon.  Can someone help?,Access & Login,Medium
+TKT-0237,Customer message: Need a refund for an order. Critical business impact; please help immediately.  Thanks.,Billing & Payments,High
+TKT-0546,"Hello team, Please add team activity notifications. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Feature Request,High
+TKT-0601,"Hello team, Upgrade our plan to enterprise. This is a suggestion for a future release.  Please advise.",Account & Subscription,Low
+TKT-0535,Customer message: Please add team activity notifications. Not blocking work; just checking.,Feature Request,Low
+TKT-0518,Would love a custom dashboard widget. This is impacting my usual workflow.,Feature Request,Medium
+TKT-0423,Please help: Mobile app freezes during startup. I need an update soon.,Technical Bug,Medium
+TKT-0343,"Hi support, Page loads blank after update. No rush, whenever you have time.  Please advise.",Technical Bug,Low
+TKT-0209,"Hi support, Payment declined on checkout. URGENT: our team cannot work until this is fixed.  Thanks.",Billing & Payments,High
+TKT-0489,"Hello team, Need an option to schedule reports. Please resolve this within a few days.  Please advise.",Feature Request,Medium
+TKT-0019,Customer message: Cannot log in to my account. Production is blocked right now. ASAP!  Thanks.,Access & Login,High
+TKT-0281,Please help: Receipt is missing from my billing history. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Billing & Payments,High
+TKT-0131,Request: Permission denied when opening the portal. I need an update soon.  Thanks.,Access & Login,Medium
+TKT-0580,Customer message: Cancel my subscription next month. This is a suggestion for a future release.  Please advise.,Account & Subscription,Low
+TKT-0367,Please help: Integration webhook stops working. Not blocking work; just checking.  Thanks.,Technical Bug,Low
+TKT-0183,Please help: Invoice total is incorrect. Please resolve this within a few days.  This affects our workflow.,Billing & Payments,Medium
+TKT-0519,"Hello team, Would love a custom dashboard widget. I need an update soon.  Thanks.",Feature Request,Medium
+TKT-0652,"Customer message: Update my account profile details. No rush, whenever you have time.",Account & Subscription,Low
+TKT-0159,"Hi support, Charged twice for my subscription. I need an update soon.  Please advise.",Billing & Payments,Medium
+TKT-0109,Customer message: Multi factor code is not arriving. I need an update soon.  This affects our workflow.,Access & Login,Medium
+TKT-0648,Request: Change the organization owner. URGENT: our team cannot work until this is fixed.  Can someone help?,Account & Subscription,High
+TKT-0415,"Hi support, Mobile app freezes during startup. Not blocking work; just checking.",Technical Bug,Low
+TKT-0675,Please help: Switch subscription from monthly to annual. This is a suggestion for a future release.  Please advise.,Account & Subscription,Low
+TKT-0418,"Hello team, Mobile app freezes during startup. I need an update soon.  Please advise.",Technical Bug,Medium
+TKT-0119,Request: Multi factor code is not arriving. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Access & Login,High
+TKT-0001,"Cannot log in to my account. No rush, whenever you have time.  Thanks.",Access & Login,Low
+TKT-0053,Please help: My account is locked. Not blocking work; just checking.  Thanks.,Access & Login,Low
+TKT-0033,"Hi support, Password reset link is failing. This is impacting my usual workflow.  Awaiting an update.",Access & Login,Medium
+TKT-0051,"Hello team, My account is locked. This is a suggestion for a future release.  Awaiting an update.",Access & Login,Low
+TKT-0398,"Hi support, Export button does not respond. This is impacting my usual workflow.  Please advise.",Technical Bug,Medium
+TKT-0040,"Hi support, Password reset link is failing. I need an update soon.  Awaiting an update.",Access & Login,Medium
+TKT-0210,"Hi support, Payment declined on checkout. Critical business impact; please help immediately.",Billing & Payments,High
+TKT-0295,"Hi support, Dashboard crashes after saving. This is a suggestion for a future release.  Can someone help?",Technical Bug,Low
+TKT-0511,"Hello team, Would love a custom dashboard widget. This is a suggestion for a future release.  Please advise.",Feature Request,Low
+TKT-0364,"Please help: Integration webhook stops working. No rush, whenever you have time.  Thanks.",Technical Bug,Low
+TKT-0134,Please help: Permission denied when opening the portal. Please resolve this within a few days.  Please advise.,Access & Login,Medium
+TKT-0569,Request integration with our calendar. Production is blocked right now. ASAP!  Thanks.,Feature Request,High
+TKT-0224,Customer message: Need a refund for an order. Not blocking work; just checking.  Awaiting an update.,Billing & Payments,Low
+TKT-0574,Please help: Request integration with our calendar. Production is blocked right now. ASAP!,Feature Request,High
+TKT-0400,"Hi support, Export button does not respond. Please resolve this within a few days.  Can someone help?",Technical Bug,Medium
+TKT-0496,Request: Need an option to schedule reports. This is impacting my usual workflow.  Can someone help?,Feature Request,Medium
+TKT-0434,Please help: Please add dark mode. This is a suggestion for a future release.  Awaiting an update.,Feature Request,Low
+TKT-0249,Customer message: Credit card was billed unexpectedly. Please resolve this within a few days.,Billing & Payments,Medium
+TKT-0339,Request: Page loads blank after update. Not blocking work; just checking.  Thanks.,Technical Bug,Low
+TKT-0671,Please help: Update my account profile details. Production is blocked right now. ASAP!  This affects our workflow.,Account & Subscription,High
+TKT-0094,"Hello team, Single sign on authentication fails. Production is blocked right now. ASAP!  This affects our workflow.",Access & Login,High
+TKT-0676,Please help: Switch subscription from monthly to annual. Not blocking work; just checking.,Account & Subscription,Low
+TKT-0142,Request: Permission denied when opening the portal. URGENT: our team cannot work until this is fixed.  Can someone help?,Access & Login,High
+TKT-0540,Customer message: Please add team activity notifications. This is impacting my usual workflow.  Awaiting an update.,Feature Request,Medium
+TKT-0302,Dashboard crashes after saving. I need an update soon.  Awaiting an update.,Technical Bug,Medium
+TKT-0499,"Hi support, Need an option to schedule reports. Critical business impact; please help immediately.  Thanks.",Feature Request,High
+TKT-0113,Request: Multi factor code is not arriving. Production is blocked right now. ASAP!,Access & Login,High
+TKT-0217,"Hi support, Need a refund for an order. No rush, whenever you have time.  This affects our workflow.",Billing & Payments,Low
+TKT-0430,Mobile app freezes during startup. Production is blocked right now. ASAP!  Thanks.,Technical Bug,High
+TKT-0704,Request: Delete my account and data. This is a suggestion for a future release.  Thanks.,Account & Subscription,Low
+TKT-0565,Request integration with our calendar. This is impacting my usual workflow.  Can someone help?,Feature Request,Medium
+TKT-0008,Request: Cannot log in to my account. Not blocking work; just checking.  Thanks.,Access & Login,Low
+TKT-0015,"Hi support, Cannot log in to my account. This is impacting my usual workflow.  Thanks.",Access & Login,Medium
+TKT-0342,Please help: Page loads blank after update. Not blocking work; just checking.  Thanks.,Technical Bug,Low
+TKT-0687,"Hi support, Switch subscription from monthly to annual. This is impacting my usual workflow.  Can someone help?",Account & Subscription,Medium
+TKT-0433,"Please help: Please add dark mode. No rush, whenever you have time.  Can someone help?",Feature Request,Low
+TKT-0091,"Hello team, Single sign on authentication fails. URGENT: our team cannot work until this is fixed.  This affects our workflow.",Access & Login,High
+TKT-0112,Please help: Multi factor code is not arriving. Please resolve this within a few days.  Thanks.,Access & Login,Medium
+TKT-0344,"Request: Page loads blank after update. No rush, whenever you have time.  Please advise.",Technical Bug,Low
+TKT-0562,Request: Request integration with our calendar. Please resolve this within a few days.,Feature Request,Medium
+TKT-0011,Customer message: Cannot log in to my account. Please resolve this within a few days.  Awaiting an update.,Access & Login,Medium
+TKT-0101,"Hello team, Multi factor code is not arriving. This is a suggestion for a future release.",Access & Login,Low
+TKT-0719,"Hello team, Delete my account and data. Critical business impact; please help immediately.  Please advise.",Account & Subscription,High
+TKT-0114,"Hello team, Multi factor code is not arriving. Production is blocked right now. ASAP!  Can someone help?",Access & Login,High
+TKT-0553,"Hello team, Request integration with our calendar. This is a suggestion for a future release.",Feature Request,Low
+TKT-0352,"Hi support, Page loads blank after update. This is impacting my usual workflow.  Thanks.",Technical Bug,Medium
+TKT-0315,"Hi support, Application shows an error 500. No rush, whenever you have time.  This affects our workflow.",Technical Bug,Low
+TKT-0605,Request: Upgrade our plan to enterprise. This is a suggestion for a future release.,Account & Subscription,Low
+TKT-0464,"Hello team, Can you support csv bulk import. Not blocking work; just checking.  Can someone help?",Feature Request,Low
+TKT-0495,Need an option to schedule reports. Please resolve this within a few days.  Awaiting an update.,Feature Request,Medium
+TKT-0253,Customer message: Credit card was billed unexpectedly. Please resolve this within a few days.  Awaiting an update.,Billing & Payments,Medium
+TKT-0262,"Hello team, Credit card was billed unexpectedly. URGENT: our team cannot work until this is fixed.  Please advise.",Billing & Payments,High
+TKT-0097,"Hello team, Multi factor code is not arriving. No rush, whenever you have time.  Please advise.",Access & Login,Low
+TKT-0407,Request: Export button does not respond. Production is blocked right now. ASAP!  Awaiting an update.,Technical Bug,High
+TKT-0655,"Please help: Update my account profile details. No rush, whenever you have time.  This affects our workflow.",Account & Subscription,Low
+TKT-0586,Customer message: Cancel my subscription next month. I need an update soon.  Thanks.,Account & Subscription,Medium
+TKT-0054,My account is locked. Not blocking work; just checking.  Thanks.,Access & Login,Low
+TKT-0156,Request: Charged twice for my subscription. Please resolve this within a few days.  Awaiting an update.,Billing & Payments,Medium
+TKT-0471,Please help: Can you support csv bulk import. I need an update soon.  Can someone help?,Feature Request,Medium
+TKT-0524,Would love a custom dashboard widget. Production is blocked right now. ASAP!  Can someone help?,Feature Request,High
+TKT-0641,Please help: Change the organization owner. Critical business impact; please help immediately.  Awaiting an update.,Account & Subscription,High
+TKT-0445,"Hi support, Please add dark mode. Please resolve this within a few days.  Awaiting an update.",Feature Request,Medium
+TKT-0250,Request: Credit card was billed unexpectedly. Please resolve this within a few days.  Awaiting an update.,Billing & Payments,Medium
+TKT-0018,Please help: Cannot log in to my account. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Access & Login,High
+TKT-0419,Customer message: Mobile app freezes during startup. I need an update soon.  Please advise.,Technical Bug,Medium
+TKT-0263,"Hi support, Credit card was billed unexpectedly. URGENT: our team cannot work until this is fixed.",Billing & Payments,High
+TKT-0354,"Hi support, Page loads blank after update. Critical business impact; please help immediately.  Please advise.",Technical Bug,High
+TKT-0095,Single sign on authentication fails. URGENT: our team cannot work until this is fixed.  Thanks.,Access & Login,High
+TKT-0537,"Hello team, Please add team activity notifications. I need an update soon.  This affects our workflow.",Feature Request,Medium
+TKT-0138,Request: Permission denied when opening the portal. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Access & Login,High
+TKT-0080,"Please help: Single sign on authentication fails. No rush, whenever you have time.",Access & Login,Low
+TKT-0637,Change the organization owner. Please resolve this within a few days.  Thanks.,Account & Subscription,Medium
+TKT-0277,Request: Receipt is missing from my billing history. Please resolve this within a few days.,Billing & Payments,Medium
+TKT-0229,Please help: Need a refund for an order. This is impacting my usual workflow.  Thanks.,Billing & Payments,Medium
+TKT-0616,"Hi support, Upgrade our plan to enterprise. I need an update soon.  Awaiting an update.",Account & Subscription,Medium
+TKT-0426,"Hello team, Mobile app freezes during startup. Production is blocked right now. ASAP!  Thanks.",Technical Bug,High
+TKT-0502,Customer message: Need an option to schedule reports. Critical business impact; please help immediately.  Please advise.,Feature Request,High
+TKT-0645,Please help: Change the organization owner. URGENT: our team cannot work until this is fixed.,Account & Subscription,High
+TKT-0265,Customer message: Receipt is missing from my billing history. Not blocking work; just checking.  Thanks.,Billing & Payments,Low
+TKT-0093,Customer message: Single sign on authentication fails. Critical business impact; please help immediately.  This affects our workflow.,Access & Login,High
+TKT-0150,Charged twice for my subscription. This is a suggestion for a future release.  Please advise.,Billing & Payments,Low
+TKT-0271,"Request: Receipt is missing from my billing history. No rush, whenever you have time.  Can someone help?",Billing & Payments,Low
+TKT-0310,Dashboard crashes after saving. Critical business impact; please help immediately.  Can someone help?,Technical Bug,High
+TKT-0696,Switch subscription from monthly to annual. Critical business impact; please help immediately.  Awaiting an update.,Account & Subscription,High
+TKT-0412,Customer message: Mobile app freezes during startup. Not blocking work; just checking.  Awaiting an update.,Technical Bug,Low
+TKT-0115,"Hello team, Multi factor code is not arriving. URGENT: our team cannot work until this is fixed.",Access & Login,High
+TKT-0386,"Hi support, Export button does not respond. This is a suggestion for a future release.  Awaiting an update.",Technical Bug,Low
+TKT-0619,Upgrade our plan to enterprise. Production is blocked right now. ASAP!,Account & Subscription,High
+TKT-0472,"Hello team, Can you support csv bulk import. This is impacting my usual workflow.  Thanks.",Feature Request,Medium
+TKT-0625,"Hello team, Change the organization owner. This is a suggestion for a future release.  Awaiting an update.",Account & Subscription,Low
+TKT-0064,Request: My account is locked. I need an update soon.  Thanks.,Access & Login,Medium
+TKT-0218,Request: Need a refund for an order. This is a suggestion for a future release.  Thanks.,Billing & Payments,Low
+TKT-0223,Request: Need a refund for an order. Not blocking work; just checking.,Billing & Payments,Low
+TKT-0350,Page loads blank after update. Please resolve this within a few days.  Can someone help?,Technical Bug,Medium
+TKT-0247,Please help: Credit card was billed unexpectedly. Not blocking work; just checking.  This affects our workflow.,Billing & Payments,Low
+TKT-0425,Mobile app freezes during startup. Critical business impact; please help immediately.,Technical Bug,High
+TKT-0103,"Request: Multi factor code is not arriving. No rush, whenever you have time.  Thanks.",Access & Login,Low
+TKT-0487,"Hello team, Need an option to schedule reports. No rush, whenever you have time.  Thanks.",Feature Request,Low
+TKT-0584,Customer message: Cancel my subscription next month. Not blocking work; just checking.  This affects our workflow.,Account & Subscription,Low
+TKT-0388,"Hello team, Export button does not respond. Not blocking work; just checking.",Technical Bug,Low
+TKT-0394,Customer message: Export button does not respond. I need an update soon.  Can someone help?,Technical Bug,Medium
+TKT-0258,Please help: Credit card was billed unexpectedly. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Billing & Payments,High
+TKT-0333,Please help: Application shows an error 500. URGENT: our team cannot work until this is fixed.  Please advise.,Technical Bug,High
+TKT-0558,Request: Request integration with our calendar. This is a suggestion for a future release.  Thanks.,Feature Request,Low
+TKT-0473,"Hi support, Can you support csv bulk import. URGENT: our team cannot work until this is fixed.  This affects our workflow.",Feature Request,High
+TKT-0639,Customer message: Change the organization owner. I need an update soon.,Account & Subscription,Medium
+TKT-0330,Customer message: Application shows an error 500. URGENT: our team cannot work until this is fixed.,Technical Bug,High
+TKT-0389,"Hi support, Export button does not respond. Not blocking work; just checking.  Please advise.",Technical Bug,Low
+TKT-0087,Customer message: Single sign on authentication fails. Please resolve this within a few days.,Access & Login,Medium
+TKT-0004,"Hello team, Cannot log in to my account. Not blocking work; just checking.  This affects our workflow.",Access & Login,Low
+TKT-0199,"Please help: Payment declined on checkout. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0385,"Hi support, Export button does not respond. This is a suggestion for a future release.",Technical Bug,Low
+TKT-0513,"Hi support, Would love a custom dashboard widget. Please resolve this within a few days.  This affects our workflow.",Feature Request,Medium
+TKT-0118,"Hello team, Multi factor code is not arriving. URGENT: our team cannot work until this is fixed.  Thanks.",Access & Login,High
+TKT-0042,"Hi support, Password reset link is failing. Critical business impact; please help immediately.  Please advise.",Access & Login,High
+TKT-0691,Please help: Switch subscription from monthly to annual. URGENT: our team cannot work until this is fixed.  Thanks.,Account & Subscription,High
+TKT-0029,Password reset link is failing. This is a suggestion for a future release.  This affects our workflow.,Access & Login,Low
+TKT-0384,Integration webhook stops working. Critical business impact; please help immediately.  Thanks.,Technical Bug,High
+TKT-0070,"Hello team, My account is locked. Production is blocked right now. ASAP!  Please advise.",Access & Login,High
+TKT-0120,"Hi support, Multi factor code is not arriving. Critical business impact; please help immediately.  Thanks.",Access & Login,High
+TKT-0644,Change the organization owner. Critical business impact; please help immediately.  Thanks.,Account & Subscription,High
+TKT-0035,Request: Password reset link is failing. Please resolve this within a few days.  This affects our workflow.,Access & Login,Medium
+TKT-0200,Request: Payment declined on checkout. Not blocking work; just checking.  This affects our workflow.,Billing & Payments,Low
+TKT-0135,Please help: Permission denied when opening the portal. This is impacting my usual workflow.  Please advise.,Access & Login,Medium
+TKT-0651,Update my account profile details. Not blocking work; just checking.  This affects our workflow.,Account & Subscription,Low
+TKT-0165,Please help: Charged twice for my subscription. Critical business impact; please help immediately.  This affects our workflow.,Billing & Payments,High
+TKT-0594,Cancel my subscription next month. Critical business impact; please help immediately.  Thanks.,Account & Subscription,High
+TKT-0459,"Hi support, Can you support csv bulk import. Not blocking work; just checking.  Can someone help?",Feature Request,Low
+TKT-0086,"Hi support, Single sign on authentication fails. This is impacting my usual workflow.  This affects our workflow.",Access & Login,Medium
+TKT-0422,Customer message: Mobile app freezes during startup. I need an update soon.  Thanks.,Technical Bug,Medium
+TKT-0501,Need an option to schedule reports. Critical business impact; please help immediately.  Thanks.,Feature Request,High
+TKT-0146,Request: Charged twice for my subscription. This is a suggestion for a future release.  Can someone help?,Billing & Payments,Low
+TKT-0363,Integration webhook stops working. This is a suggestion for a future release.,Technical Bug,Low
+TKT-0003,"Hi support, Cannot log in to my account. No rush, whenever you have time.  This affects our workflow.",Access & Login,Low
+TKT-0533,Please add team activity notifications. This is a suggestion for a future release.  Awaiting an update.,Feature Request,Low
+TKT-0268,"Hi support, Receipt is missing from my billing history. Not blocking work; just checking.",Billing & Payments,Low
+TKT-0382,"Hello team, Integration webhook stops working. URGENT: our team cannot work until this is fixed.",Technical Bug,High
+TKT-0048,"Hello team, Password reset link is failing. URGENT: our team cannot work until this is fixed.  Thanks.",Access & Login,High
+TKT-0285,"Hi support, Receipt is missing from my billing history. Production is blocked right now. ASAP!",Billing & Payments,High
+TKT-0670,Customer message: Update my account profile details. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Account & Subscription,High
+TKT-0374,"Hello team, Integration webhook stops working. Please resolve this within a few days.  Can someone help?",Technical Bug,Medium
+TKT-0716,Customer message: Delete my account and data. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Account & Subscription,High
+TKT-0279,Customer message: Receipt is missing from my billing history. I need an update soon.  Can someone help?,Billing & Payments,Medium
+TKT-0699,"Hi support, Delete my account and data. Not blocking work; just checking.  This affects our workflow.",Account & Subscription,Low
+TKT-0358,"Hello team, Page loads blank after update. Critical business impact; please help immediately.  This affects our workflow.",Technical Bug,High
+TKT-0399,Request: Export button does not respond. I need an update soon.  This affects our workflow.,Technical Bug,Medium
+TKT-0252,"Hello team, Credit card was billed unexpectedly. Please resolve this within a few days.  This affects our workflow.",Billing & Payments,Medium
+TKT-0462,"Hello team, Can you support csv bulk import. Not blocking work; just checking.  This affects our workflow.",Feature Request,Low
+TKT-0305,Dashboard crashes after saving. URGENT: our team cannot work until this is fixed.  Can someone help?,Technical Bug,High
+TKT-0678,Customer message: Switch subscription from monthly to annual. Not blocking work; just checking.,Account & Subscription,Low
+TKT-0222,Request: Need a refund for an order. This is a suggestion for a future release.  Awaiting an update.,Billing & Payments,Low
+TKT-0023,Cannot log in to my account. URGENT: our team cannot work until this is fixed.  Thanks.,Access & Login,High
+TKT-0688,"Hello team, Switch subscription from monthly to annual. This is impacting my usual workflow.  Thanks.",Account & Subscription,Medium
+TKT-0683,Switch subscription from monthly to annual. I need an update soon.  Thanks.,Account & Subscription,Medium
+TKT-0536,"Customer message: Please add team activity notifications. No rush, whenever you have time.  This affects our workflow.",Feature Request,Low
+TKT-0219,"Request: Need a refund for an order. No rush, whenever you have time.  Thanks.",Billing & Payments,Low
+TKT-0083,Single sign on authentication fails. I need an update soon.  Thanks.,Access & Login,Medium
+TKT-0566,Please help: Request integration with our calendar. Please resolve this within a few days.  Please advise.,Feature Request,Medium
+TKT-0194,"Hi support, Payment declined on checkout. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0052,Request: My account is locked. This is a suggestion for a future release.,Access & Login,Low
+TKT-0327,Customer message: Application shows an error 500. This is impacting my usual workflow.  Please advise.,Technical Bug,Medium
+TKT-0123,"Hello team, Permission denied when opening the portal. This is a suggestion for a future release.  This affects our workflow.",Access & Login,Low
+TKT-0122,"Request: Permission denied when opening the portal. No rush, whenever you have time.",Access & Login,Low
+TKT-0225,"Hi support, Need a refund for an order. I need an update soon.  Awaiting an update.",Billing & Payments,Medium
+TKT-0387,Export button does not respond. This is a suggestion for a future release.  Thanks.,Technical Bug,Low
+TKT-0359,Please help: Page loads blank after update. Production is blocked right now. ASAP!  Awaiting an update.,Technical Bug,High
+TKT-0579,Customer message: Cancel my subscription next month. Not blocking work; just checking.  Awaiting an update.,Account & Subscription,Low
+TKT-0715,Request: Delete my account and data. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Account & Subscription,High
+TKT-0668,"Hi support, Update my account profile details. URGENT: our team cannot work until this is fixed.  This affects our workflow.",Account & Subscription,High
+TKT-0002,Cannot log in to my account. This is a suggestion for a future release.  Please advise.,Access & Login,Low
+TKT-0666,Please help: Update my account profile details. Production is blocked right now. ASAP!  Please advise.,Account & Subscription,High
+TKT-0395,Request: Export button does not respond. I need an update soon.  Can someone help?,Technical Bug,Medium
+TKT-0483,Request: Need an option to schedule reports. This is a suggestion for a future release.,Feature Request,Low
+TKT-0438,"Hello team, Please add dark mode. Not blocking work; just checking.  Awaiting an update.",Feature Request,Low
+TKT-0600,Please help: Cancel my subscription next month. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Account & Subscription,High
+TKT-0184,Customer message: Invoice total is incorrect. Please resolve this within a few days.,Billing & Payments,Medium
+TKT-0667,Request: Update my account profile details. Critical business impact; please help immediately.  Please advise.,Account & Subscription,High
+TKT-0658,Update my account profile details. This is impacting my usual workflow.,Account & Subscription,Medium
+TKT-0424,Customer message: Mobile app freezes during startup. This is impacting my usual workflow.  This affects our workflow.,Technical Bug,Medium
+TKT-0624,"Hello team, Upgrade our plan to enterprise. Critical business impact; please help immediately.",Account & Subscription,High
+TKT-0060,"Hi support, My account is locked. I need an update soon.  Thanks.",Access & Login,Medium
+TKT-0357,Request: Page loads blank after update. Critical business impact; please help immediately.  Awaiting an update.,Technical Bug,High
+TKT-0058,Customer message: My account is locked. Please resolve this within a few days.  This affects our workflow.,Access & Login,Medium
+TKT-0300,Customer message: Dashboard crashes after saving. This is impacting my usual workflow.,Technical Bug,Medium
+TKT-0232,Request: Need a refund for an order. Please resolve this within a few days.  Please advise.,Billing & Payments,Medium
+TKT-0172,"Hi support, Invoice total is incorrect. This is a suggestion for a future release.  Can someone help?",Billing & Payments,Low
+TKT-0013,"Hi support, Cannot log in to my account. I need an update soon.  Awaiting an update.",Access & Login,Medium
+TKT-0514,"Hello team, Would love a custom dashboard widget. Please resolve this within a few days.  Thanks.",Feature Request,Medium
+TKT-0062,Request: My account is locked. I need an update soon.  Please advise.,Access & Login,Medium
+TKT-0151,Charged twice for my subscription. This is a suggestion for a future release.,Billing & Payments,Low
+TKT-0470,"Hi support, Can you support csv bulk import. This is impacting my usual workflow.  Awaiting an update.",Feature Request,Medium
+TKT-0337,Customer message: Page loads blank after update. This is a suggestion for a future release.  Can someone help?,Technical Bug,Low
+TKT-0028,Please help: Password reset link is failing. This is a suggestion for a future release.  Please advise.,Access & Login,Low
+TKT-0631,"Change the organization owner. No rush, whenever you have time.  Awaiting an update.",Account & Subscription,Low
+TKT-0140,"Hello team, Permission denied when opening the portal. URGENT: our team cannot work until this is fixed.  Can someone help?",Access & Login,High
+TKT-0591,Customer message: Cancel my subscription next month. Please resolve this within a few days.  Please advise.,Account & Subscription,Medium
+TKT-0104,"Hi support, Multi factor code is not arriving. No rush, whenever you have time.  Awaiting an update.",Access & Login,Low
+TKT-0110,Request: Multi factor code is not arriving. I need an update soon.  This affects our workflow.,Access & Login,Medium
+TKT-0276,Receipt is missing from my billing history. This is impacting my usual workflow.  This affects our workflow.,Billing & Payments,Medium
+TKT-0547,"Hello team, Please add team activity notifications. Production is blocked right now. ASAP!  This affects our workflow.",Feature Request,High
+TKT-0227,Need a refund for an order. This is impacting my usual workflow.,Billing & Payments,Medium
+TKT-0178,Please help: Invoice total is incorrect. Please resolve this within a few days.  Thanks.,Billing & Payments,Medium
+TKT-0041,Customer message: Password reset link is failing. Production is blocked right now. ASAP!  Awaiting an update.,Access & Login,High
+TKT-0402,Please help: Export button does not respond. URGENT: our team cannot work until this is fixed.  Can someone help?,Technical Bug,High
+TKT-0022,Please help: Cannot log in to my account. Production is blocked right now. ASAP!  Please advise.,Access & Login,High
+TKT-0507,"Hi support, Would love a custom dashboard widget. Not blocking work; just checking.  Please advise.",Feature Request,Low
+TKT-0075,"Single sign on authentication fails. No rush, whenever you have time.  This affects our workflow.",Access & Login,Low
+TKT-0474,Can you support csv bulk import. Production is blocked right now. ASAP!  Awaiting an update.,Feature Request,High
+TKT-0203,Request: Payment declined on checkout. This is impacting my usual workflow.  This affects our workflow.,Billing & Payments,Medium
+TKT-0321,Application shows an error 500. I need an update soon.  Please advise.,Technical Bug,Medium
+TKT-0589,Please help: Cancel my subscription next month. This is impacting my usual workflow.  Thanks.,Account & Subscription,Medium
+TKT-0290,"Hello team, Dashboard crashes after saving. This is a suggestion for a future release.  Awaiting an update.",Technical Bug,Low
+TKT-0614,"Hi support, Upgrade our plan to enterprise. Please resolve this within a few days.",Account & Subscription,Medium
+TKT-0577,"Cancel my subscription next month. No rush, whenever you have time.  Can someone help?",Account & Subscription,Low
+TKT-0326,Please help: Application shows an error 500. This is impacting my usual workflow.  Awaiting an update.,Technical Bug,Medium
+TKT-0163,"Hi support, Charged twice for my subscription. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Billing & Payments,High
+TKT-0713,Please help: Delete my account and data. URGENT: our team cannot work until this is fixed.,Account & Subscription,High
+TKT-0660,Please help: Update my account profile details. Please resolve this within a few days.  Please advise.,Account & Subscription,Medium
+TKT-0602,Request: Upgrade our plan to enterprise. This is a suggestion for a future release.  This affects our workflow.,Account & Subscription,Low
+TKT-0283,Please help: Receipt is missing from my billing history. Production is blocked right now. ASAP!  Awaiting an update.,Billing & Payments,High
+TKT-0116,Customer message: Multi factor code is not arriving. Production is blocked right now. ASAP!,Access & Login,High
+TKT-0494,Need an option to schedule reports. Please resolve this within a few days.  Awaiting an update.,Feature Request,Medium
+TKT-0571,"Hi support, Request integration with our calendar. Critical business impact; please help immediately.  Awaiting an update.",Feature Request,High
+TKT-0460,Can you support csv bulk import. Not blocking work; just checking.  This affects our workflow.,Feature Request,Low
+TKT-0099,"Hi support, Multi factor code is not arriving. This is a suggestion for a future release.  Please advise.",Access & Login,Low
+TKT-0486,Please help: Need an option to schedule reports. Not blocking work; just checking.  Awaiting an update.,Feature Request,Low
+TKT-0332,"Hi support, Application shows an error 500. URGENT: our team cannot work until this is fixed.",Technical Bug,High
+TKT-0182,Customer message: Invoice total is incorrect. I need an update soon.  Please advise.,Billing & Payments,Medium
+TKT-0505,Would love a custom dashboard widget. Not blocking work; just checking.  Thanks.,Feature Request,Low
+TKT-0520,Customer message: Would love a custom dashboard widget. This is impacting my usual workflow.  Can someone help?,Feature Request,Medium
+TKT-0674,"Hi support, Switch subscription from monthly to annual. Not blocking work; just checking.  Please advise.",Account & Subscription,Low
+TKT-0236,Customer message: Need a refund for an order. Critical business impact; please help immediately.,Billing & Payments,High
+TKT-0563,Request integration with our calendar. I need an update soon.  Can someone help?,Feature Request,Medium
+TKT-0538,Request: Please add team activity notifications. I need an update soon.  Please advise.,Feature Request,Medium
+TKT-0193,Payment declined on checkout. This is a suggestion for a future release.,Billing & Payments,Low
+TKT-0270,"Hi support, Receipt is missing from my billing history. This is a suggestion for a future release.  Thanks.",Billing & Payments,Low
+TKT-0245,"Hi support, Credit card was billed unexpectedly. This is a suggestion for a future release.  Awaiting an update.",Billing & Payments,Low
+TKT-0167,"Hi support, Charged twice for my subscription. Production is blocked right now. ASAP!  Thanks.",Billing & Payments,High
+TKT-0401,Customer message: Export button does not respond. Critical business impact; please help immediately.,Technical Bug,High
+TKT-0720,Delete my account and data. Production is blocked right now. ASAP!  This affects our workflow.,Account & Subscription,High
+TKT-0365,"Hi support, Integration webhook stops working. Not blocking work; just checking.",Technical Bug,Low
+TKT-0369,Integration webhook stops working. This is impacting my usual workflow.  Can someone help?,Technical Bug,Medium
+TKT-0635,Customer message: Change the organization owner. Please resolve this within a few days.  Can someone help?,Account & Subscription,Medium
+TKT-0628,"Change the organization owner. No rush, whenever you have time.",Account & Subscription,Low
+TKT-0677,Customer message: Switch subscription from monthly to annual. This is a suggestion for a future release.  Can someone help?,Account & Subscription,Low
+TKT-0211,"Hello team, Payment declined on checkout. Critical business impact; please help immediately.  Awaiting an update.",Billing & Payments,High
+TKT-0484,"Hi support, Need an option to schedule reports. Not blocking work; just checking.  Thanks.",Feature Request,Low
+TKT-0212,Payment declined on checkout. Production is blocked right now. ASAP!  Please advise.,Billing & Payments,High
+TKT-0078,Request: Single sign on authentication fails. This is a suggestion for a future release.  Thanks.,Access & Login,Low
+TKT-0452,Please help: Please add dark mode. Production is blocked right now. ASAP!  Can someone help?,Feature Request,High
+TKT-0450,"Hello team, Please add dark mode. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Feature Request,High
+TKT-0488,"Hello team, Need an option to schedule reports. This is a suggestion for a future release.  Awaiting an update.",Feature Request,Low
+TKT-0010,Cannot log in to my account. I need an update soon.,Access & Login,Medium
+TKT-0454,Please help: Please add dark mode. URGENT: our team cannot work until this is fixed.,Feature Request,High
+TKT-0682,Please help: Switch subscription from monthly to annual. I need an update soon.  Thanks.,Account & Subscription,Medium
+TKT-0294,"Please help: Dashboard crashes after saving. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0017,Please help: Cannot log in to my account. Critical business impact; please help immediately.,Access & Login,High
+TKT-0573,Please help: Request integration with our calendar. Critical business impact; please help immediately.  This affects our workflow.,Feature Request,High
+TKT-0552,Please add team activity notifications. Critical business impact; please help immediately.  This affects our workflow.,Feature Request,High
+TKT-0195,Payment declined on checkout. This is a suggestion for a future release.  This affects our workflow.,Billing & Payments,Low
+TKT-0695,Customer message: Switch subscription from monthly to annual. Production is blocked right now. ASAP!  Please advise.,Account & Subscription,High
+TKT-0656,Update my account profile details. Not blocking work; just checking.  This affects our workflow.,Account & Subscription,Low
+TKT-0599,Cancel my subscription next month. Production is blocked right now. ASAP!  Awaiting an update.,Account & Subscription,High
+TKT-0088,"Hi support, Single sign on authentication fails. I need an update soon.",Access & Login,Medium
+TKT-0246,"Customer message: Credit card was billed unexpectedly. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0338,Request: Page loads blank after update. This is a suggestion for a future release.  Can someone help?,Technical Bug,Low
+TKT-0403,Export button does not respond. Critical business impact; please help immediately.,Technical Bug,High
+TKT-0607,Upgrade our plan to enterprise. This is a suggestion for a future release.  Please advise.,Account & Subscription,Low
+TKT-0643,Request: Change the organization owner. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Account & Subscription,High
+TKT-0297,Dashboard crashes after saving. This is impacting my usual workflow.,Technical Bug,Medium
+TKT-0411,"Hello team, Mobile app freezes during startup. This is a suggestion for a future release.  This affects our workflow.",Technical Bug,Low
+TKT-0550,Request: Please add team activity notifications. Critical business impact; please help immediately.  This affects our workflow.,Feature Request,High
+TKT-0692,Please help: Switch subscription from monthly to annual. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Account & Subscription,High
+TKT-0014,Please help: Cannot log in to my account. This is impacting my usual workflow.  Please advise.,Access & Login,Medium
+TKT-0323,Request: Application shows an error 500. This is impacting my usual workflow.  This affects our workflow.,Technical Bug,Medium
+TKT-0436,Customer message: Please add dark mode. Not blocking work; just checking.  This affects our workflow.,Feature Request,Low
+TKT-0604,"Hello team, Upgrade our plan to enterprise. No rush, whenever you have time.  Awaiting an update.",Account & Subscription,Low
+TKT-0214,Customer message: Payment declined on checkout. Critical business impact; please help immediately.  Please advise.,Billing & Payments,High
+TKT-0542,"Hello team, Please add team activity notifications. This is impacting my usual workflow.  Awaiting an update.",Feature Request,Medium
+TKT-0170,Please help: Invoice total is incorrect. This is a suggestion for a future release.  Please advise.,Billing & Payments,Low
+TKT-0189,Request: Invoice total is incorrect. Critical business impact; please help immediately.  This affects our workflow.,Billing & Payments,High
+TKT-0009,Request: Cannot log in to my account. Please resolve this within a few days.  This affects our workflow.,Access & Login,Medium
+TKT-0244,"Request: Credit card was billed unexpectedly. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0661,Please help: Update my account profile details. This is impacting my usual workflow.  Please advise.,Account & Subscription,Medium
+TKT-0289,Please help: Dashboard crashes after saving. This is a suggestion for a future release.  Please advise.,Technical Bug,Low
+TKT-0251,Request: Credit card was billed unexpectedly. I need an update soon.  This affects our workflow.,Billing & Payments,Medium
+TKT-0273,Customer message: Receipt is missing from my billing history. I need an update soon.  Please advise.,Billing & Payments,Medium
+TKT-0375,Customer message: Integration webhook stops working. I need an update soon.  Awaiting an update.,Technical Bug,Medium
+TKT-0690,"Hi support, Switch subscription from monthly to annual. Critical business impact; please help immediately.  Thanks.",Account & Subscription,High
+TKT-0522,Customer message: Would love a custom dashboard widget. Production is blocked right now. ASAP!  Please advise.,Feature Request,High
+TKT-0304,Please help: Dashboard crashes after saving. Please resolve this within a few days.  Awaiting an update.,Technical Bug,Medium
+TKT-0154,Charged twice for my subscription. Please resolve this within a few days.,Billing & Payments,Medium
+TKT-0453,"Hello team, Please add dark mode. Production is blocked right now. ASAP!  Awaiting an update.",Feature Request,High
+TKT-0383,Please help: Integration webhook stops working. Production is blocked right now. ASAP!  Awaiting an update.,Technical Bug,High
+TKT-0516,Please help: Would love a custom dashboard widget. Please resolve this within a few days.  Please advise.,Feature Request,Medium
+TKT-0466,Please help: Can you support csv bulk import. This is impacting my usual workflow.  This affects our workflow.,Feature Request,Medium
+TKT-0654,Request: Update my account profile details. This is a suggestion for a future release.  This affects our workflow.,Account & Subscription,Low
+TKT-0447,Please add dark mode. This is impacting my usual workflow.  This affects our workflow.,Feature Request,Medium
+TKT-0072,Request: My account is locked. URGENT: our team cannot work until this is fixed.  Can someone help?,Access & Login,High
+TKT-0439,Request: Please add dark mode. Not blocking work; just checking.  Please advise.,Feature Request,Low
+TKT-0482,"Customer message: Need an option to schedule reports. No rush, whenever you have time.",Feature Request,Low
+TKT-0640,Request: Change the organization owner. Please resolve this within a few days.  Can someone help?,Account & Subscription,Medium
+TKT-0234,Need a refund for an order. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Billing & Payments,High
+TKT-0266,"Request: Receipt is missing from my billing history. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0570,"Hello team, Request integration with our calendar. Production is blocked right now. ASAP!",Feature Request,High
+TKT-0650,"Hi support, Update my account profile details. This is a suggestion for a future release.  Can someone help?",Account & Subscription,Low
+TKT-0685,Please help: Switch subscription from monthly to annual. This is impacting my usual workflow.,Account & Subscription,Medium
+TKT-0071,"Hi support, My account is locked. Production is blocked right now. ASAP!  Awaiting an update.",Access & Login,High
+TKT-0020,Customer message: Cannot log in to my account. URGENT: our team cannot work until this is fixed.,Access & Login,High
+TKT-0405,"Hi support, Export button does not respond. Critical business impact; please help immediately.",Technical Bug,High
+TKT-0021,Please help: Cannot log in to my account. Production is blocked right now. ASAP!,Access & Login,High
+TKT-0529,"Hello team, Please add team activity notifications. No rush, whenever you have time.  Can someone help?",Feature Request,Low
+TKT-0404,Request: Export button does not respond. Production is blocked right now. ASAP!  Awaiting an update.,Technical Bug,High
+TKT-0261,Credit card was billed unexpectedly. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Billing & Payments,High
+TKT-0309,Request: Dashboard crashes after saving. Critical business impact; please help immediately.  Can someone help?,Technical Bug,High
+TKT-0102,"Hello team, Multi factor code is not arriving. No rush, whenever you have time.  This affects our workflow.",Access & Login,Low
+TKT-0481,"Hello team, Need an option to schedule reports. Not blocking work; just checking.  Please advise.",Feature Request,Low
+TKT-0406,Customer message: Export button does not respond. Critical business impact; please help immediately.  Can someone help?,Technical Bug,High
+TKT-0609,Request: Upgrade our plan to enterprise. I need an update soon.  Thanks.,Account & Subscription,Medium
+TKT-0174,Please help: Invoice total is incorrect. Not blocking work; just checking.,Billing & Payments,Low
+TKT-0673,Please help: Switch subscription from monthly to annual. Not blocking work; just checking.  Awaiting an update.,Account & Subscription,Low
+TKT-0432,Please help: Mobile app freezes during startup. URGENT: our team cannot work until this is fixed.  Thanks.,Technical Bug,High
+TKT-0707,Request: Delete my account and data. I need an update soon.  Please advise.,Account & Subscription,Medium
+TKT-0066,"Hello team, My account is locked. URGENT: our team cannot work until this is fixed.  Can someone help?",Access & Login,High
+TKT-0061,My account is locked. This is impacting my usual workflow.  This affects our workflow.,Access & Login,Medium
+TKT-0313,"Please help: Application shows an error 500. No rush, whenever you have time.  This affects our workflow.",Technical Bug,Low
+TKT-0349,Page loads blank after update. This is impacting my usual workflow.  Thanks.,Technical Bug,Medium
+TKT-0320,"Hi support, Application shows an error 500. This is a suggestion for a future release.  Thanks.",Technical Bug,Low
+TKT-0144,Permission denied when opening the portal. Critical business impact; please help immediately.  Please advise.,Access & Login,High
+TKT-0527,Customer message: Would love a custom dashboard widget. Production is blocked right now. ASAP!  Thanks.,Feature Request,High
+TKT-0714,Request: Delete my account and data. Production is blocked right now. ASAP!,Account & Subscription,High
+TKT-0551,"Hello team, Please add team activity notifications. Critical business impact; please help immediately.  Can someone help?",Feature Request,High
+TKT-0431,Customer message: Mobile app freezes during startup. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Technical Bug,High
+TKT-0198,"Request: Payment declined on checkout. No rush, whenever you have time.  Can someone help?",Billing & Payments,Low
+TKT-0492,Need an option to schedule reports. I need an update soon.,Feature Request,Medium
+TKT-0148,Customer message: Charged twice for my subscription. This is a suggestion for a future release.  Thanks.,Billing & Payments,Low
+TKT-0284,Receipt is missing from my billing history. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Billing & Payments,High
+TKT-0186,Invoice total is incorrect. Production is blocked right now. ASAP!  This affects our workflow.,Billing & Payments,High
+TKT-0100,Please help: Multi factor code is not arriving. This is a suggestion for a future release.  Please advise.,Access & Login,Low
+TKT-0468,"Hi support, Can you support csv bulk import. I need an update soon.  Can someone help?",Feature Request,Medium
+TKT-0292,Request: Dashboard crashes after saving. Not blocking work; just checking.  Awaiting an update.,Technical Bug,Low
+TKT-0568,Customer message: Request integration with our calendar. Please resolve this within a few days.  Please advise.,Feature Request,Medium
+TKT-0572,Customer message: Request integration with our calendar. Critical business impact; please help immediately.  Please advise.,Feature Request,High
+TKT-0024,Cannot log in to my account. URGENT: our team cannot work until this is fixed.  Can someone help?,Access & Login,High
+TKT-0409,"Mobile app freezes during startup. No rush, whenever you have time.",Technical Bug,Low
+TKT-0700,Request: Delete my account and data. Not blocking work; just checking.  Awaiting an update.,Account & Subscription,Low
+TKT-0392,"Hi support, Export button does not respond. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0188,"Hello team, Invoice total is incorrect. Production is blocked right now. ASAP!  Can someone help?",Billing & Payments,High
+TKT-0638,"Hi support, Change the organization owner. I need an update soon.  Awaiting an update.",Account & Subscription,Medium
+TKT-0136,Customer message: Permission denied when opening the portal. I need an update soon.  This affects our workflow.,Access & Login,Medium
+TKT-0629,Request: Change the organization owner. Not blocking work; just checking.  Awaiting an update.,Account & Subscription,Low
+TKT-0221,Need a refund for an order. Not blocking work; just checking.,Billing & Payments,Low
+TKT-0056,My account is locked. This is a suggestion for a future release.  Thanks.,Access & Login,Low
+TKT-0005,"Request: Cannot log in to my account. No rush, whenever you have time.",Access & Login,Low
+TKT-0275,Receipt is missing from my billing history. Please resolve this within a few days.  Thanks.,Billing & Payments,Medium
+TKT-0634,Request: Change the organization owner. Please resolve this within a few days.  Thanks.,Account & Subscription,Medium
+TKT-0241,"Hello team, Credit card was billed unexpectedly. This is a suggestion for a future release.  Can someone help?",Billing & Payments,Low
+TKT-0345,"Hello team, Page loads blank after update. This is impacting my usual workflow.  Awaiting an update.",Technical Bug,Medium
+TKT-0335,Request: Application shows an error 500. Production is blocked right now. ASAP!,Technical Bug,High
+TKT-0306,Dashboard crashes after saving. Production is blocked right now. ASAP!  Can someone help?,Technical Bug,High
+TKT-0254,"Hi support, Credit card was billed unexpectedly. Please resolve this within a few days.  Can someone help?",Billing & Payments,Medium
+TKT-0145,Charged twice for my subscription. Not blocking work; just checking.  Can someone help?,Billing & Payments,Low
+TKT-0597,"Hello team, Cancel my subscription next month. Critical business impact; please help immediately.",Account & Subscription,High
+TKT-0025,"Hello team, Password reset link is failing. No rush, whenever you have time.  Thanks.",Access & Login,Low
+TKT-0181,Request: Invoice total is incorrect. I need an update soon.  Thanks.,Billing & Payments,Medium
+TKT-0299,"Hello team, Dashboard crashes after saving. Please resolve this within a few days.  This affects our workflow.",Technical Bug,Medium
+TKT-0111,Customer message: Multi factor code is not arriving. Please resolve this within a few days.  Please advise.,Access & Login,Medium
+TKT-0465,Can you support csv bulk import. Please resolve this within a few days.  Thanks.,Feature Request,Medium
+TKT-0235,"Hi support, Need a refund for an order. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Billing & Payments,High
+TKT-0259,"Hello team, Credit card was billed unexpectedly. Production is blocked right now. ASAP!",Billing & Payments,High
+TKT-0694,"Hi support, Switch subscription from monthly to annual. URGENT: our team cannot work until this is fixed.  Can someone help?",Account & Subscription,High
+TKT-0523,Request: Would love a custom dashboard widget. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Feature Request,High
+TKT-0012,Request: Cannot log in to my account. This is impacting my usual workflow.  Thanks.,Access & Login,Medium
+TKT-0508,"Hello team, Would love a custom dashboard widget. Not blocking work; just checking.  Please advise.",Feature Request,Low
+TKT-0575,"Hello team, Request integration with our calendar. URGENT: our team cannot work until this is fixed.  Please advise.",Feature Request,High
+TKT-0440,Customer message: Please add dark mode. Not blocking work; just checking.  Please advise.,Feature Request,Low
+TKT-0240,Request: Need a refund for an order. Critical business impact; please help immediately.  Awaiting an update.,Billing & Payments,High
+TKT-0703,"Hi support, Delete my account and data. This is a suggestion for a future release.  This affects our workflow.",Account & Subscription,Low
+TKT-0608,"Please help: Upgrade our plan to enterprise. No rush, whenever you have time.  Thanks.",Account & Subscription,Low
+TKT-0632,Request: Change the organization owner. Not blocking work; just checking.  Please advise.,Account & Subscription,Low
+TKT-0391,Request: Export button does not respond. This is a suggestion for a future release.  Thanks.,Technical Bug,Low
+TKT-0098,"Hi support, Multi factor code is not arriving. Not blocking work; just checking.  Awaiting an update.",Access & Login,Low
+TKT-0480,Customer message: Can you support csv bulk import. Production is blocked right now. ASAP!  Can someone help?,Feature Request,High
+TKT-0567,"Hi support, Request integration with our calendar. I need an update soon.  This affects our workflow.",Feature Request,Medium
+TKT-0296,Please help: Dashboard crashes after saving. This is a suggestion for a future release.,Technical Bug,Low
+TKT-0168,Customer message: Charged twice for my subscription. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Billing & Payments,High
+TKT-0417,"Hello team, Mobile app freezes during startup. I need an update soon.  Awaiting an update.",Technical Bug,Medium
+TKT-0657,Request: Update my account profile details. Please resolve this within a few days.  This affects our workflow.,Account & Subscription,Medium
+TKT-0544,Please help: Please add team activity notifications. Please resolve this within a few days.  This affects our workflow.,Feature Request,Medium
+TKT-0541,Customer message: Please add team activity notifications. This is impacting my usual workflow.  This affects our workflow.,Feature Request,Medium
+TKT-0215,"Hi support, Payment declined on checkout. Production is blocked right now. ASAP!  This affects our workflow.",Billing & Payments,High
+TKT-0316,Customer message: Application shows an error 500. This is a suggestion for a future release.  This affects our workflow.,Technical Bug,Low
+TKT-0443,Please add dark mode. Please resolve this within a few days.  Awaiting an update.,Feature Request,Medium
+TKT-0197,Request: Payment declined on checkout. This is a suggestion for a future release.  Awaiting an update.,Billing & Payments,Low
+TKT-0504,Need an option to schedule reports. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Feature Request,High
+TKT-0026,Customer message: Password reset link is failing. This is a suggestion for a future release.  Awaiting an update.,Access & Login,Low
+TKT-0050,My account is locked. This is a suggestion for a future release.,Access & Login,Low
+TKT-0073,Request: Single sign on authentication fails. Not blocking work; just checking.  Awaiting an update.,Access & Login,Low
+TKT-0127,"Hi support, Permission denied when opening the portal. This is a suggestion for a future release.  Awaiting an update.",Access & Login,Low
+TKT-0534,Request: Please add team activity notifications. Not blocking work; just checking.  Can someone help?,Feature Request,Low
+TKT-0717,Customer message: Delete my account and data. Critical business impact; please help immediately.  Can someone help?,Account & Subscription,High
+TKT-0063,"Hi support, My account is locked. This is impacting my usual workflow.  Please advise.",Access & Login,Medium
+TKT-0239,Request: Need a refund for an order. Production is blocked right now. ASAP!  Thanks.,Billing & Payments,High
+TKT-0124,Request: Permission denied when opening the portal. Not blocking work; just checking.,Access & Login,Low
+TKT-0477,Request: Can you support csv bulk import. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Feature Request,High
+TKT-0055,My account is locked. Not blocking work; just checking.  Can someone help?,Access & Login,Low
+TKT-0288,Customer message: Receipt is missing from my billing history. Production is blocked right now. ASAP!,Billing & Payments,High
+TKT-0264,"Hi support, Credit card was billed unexpectedly. URGENT: our team cannot work until this is fixed.  Please advise.",Billing & Payments,High
+TKT-0190,"Hello team, Invoice total is incorrect. Production is blocked right now. ASAP!  Can someone help?",Billing & Payments,High
+TKT-0390,Please help: Export button does not respond. Not blocking work; just checking.  Thanks.,Technical Bug,Low
+TKT-0583,Cancel my subscription next month. Not blocking work; just checking.,Account & Subscription,Low
+TKT-0593,"Hi support, Cancel my subscription next month. Production is blocked right now. ASAP!",Account & Subscription,High
+TKT-0615,"Hi support, Upgrade our plan to enterprise. I need an update soon.  Thanks.",Account & Subscription,Medium
+TKT-0664,Request: Update my account profile details. I need an update soon.  This affects our workflow.,Account & Subscription,Medium
+TKT-0612,Upgrade our plan to enterprise. Please resolve this within a few days.  Please advise.,Account & Subscription,Medium
+TKT-0636,Change the organization owner. Please resolve this within a few days.,Account & Subscription,Medium
+TKT-0368,"Hi support, Integration webhook stops working. This is a suggestion for a future release.",Technical Bug,Low
+TKT-0442,Please help: Please add dark mode. This is impacting my usual workflow.  Can someone help?,Feature Request,Medium
+TKT-0161,Request: Charged twice for my subscription. Critical business impact; please help immediately.,Billing & Payments,High
+TKT-0074,"Hi support, Single sign on authentication fails. Not blocking work; just checking.  This affects our workflow.",Access & Login,Low
+TKT-0525,Customer message: Would love a custom dashboard widget. Production is blocked right now. ASAP!  Thanks.,Feature Request,High
+TKT-0175,Customer message: Invoice total is incorrect. Not blocking work; just checking.,Billing & Payments,Low
+TKT-0105,Customer message: Multi factor code is not arriving. This is impacting my usual workflow.  Please advise.,Access & Login,Medium
+TKT-0238,"Hi support, Need a refund for an order. Critical business impact; please help immediately.  Awaiting an update.",Billing & Payments,High
+TKT-0500,Need an option to schedule reports. Critical business impact; please help immediately.,Feature Request,High
+TKT-0213,Payment declined on checkout. Production is blocked right now. ASAP!  Awaiting an update.,Billing & Payments,High
+TKT-0226,Customer message: Need a refund for an order. This is impacting my usual workflow.  Please advise.,Billing & Payments,Medium
+TKT-0549,"Hello team, Please add team activity notifications. Production is blocked right now. ASAP!",Feature Request,High
+TKT-0031,Request: Password reset link is failing. Not blocking work; just checking.  Please advise.,Access & Login,Low
+TKT-0548,Please help: Please add team activity notifications. URGENT: our team cannot work until this is fixed.,Feature Request,High
+TKT-0689,Customer message: Switch subscription from monthly to annual. Production is blocked right now. ASAP!  Can someone help?,Account & Subscription,High
+TKT-0233,"Hi support, Need a refund for an order. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Billing & Payments,High
+TKT-0153,"Hello team, Charged twice for my subscription. Please resolve this within a few days.  Thanks.",Billing & Payments,Medium
+TKT-0208,Please help: Payment declined on checkout. Please resolve this within a few days.  Please advise.,Billing & Payments,Medium
+TKT-0351,Page loads blank after update. I need an update soon.  This affects our workflow.,Technical Bug,Medium
+TKT-0414,"Hi support, Mobile app freezes during startup. This is a suggestion for a future release.  Thanks.",Technical Bug,Low
+TKT-0413,Customer message: Mobile app freezes during startup. Not blocking work; just checking.  This affects our workflow.,Technical Bug,Low
+TKT-0592,Customer message: Cancel my subscription next month. I need an update soon.  This affects our workflow.,Account & Subscription,Medium
+TKT-0248,Customer message: Credit card was billed unexpectedly. Not blocking work; just checking.  Please advise.,Billing & Payments,Low
+TKT-0155,"Hello team, Charged twice for my subscription. This is impacting my usual workflow.",Billing & Payments,Medium
+TKT-0490,Request: Need an option to schedule reports. Please resolve this within a few days.  Awaiting an update.,Feature Request,Medium
+TKT-0712,Delete my account and data. Please resolve this within a few days.,Account & Subscription,Medium
+TKT-0149,"Hello team, Charged twice for my subscription. This is a suggestion for a future release.  Please advise.",Billing & Payments,Low
+TKT-0681,"Hello team, Switch subscription from monthly to annual. I need an update soon.  Awaiting an update.",Account & Subscription,Medium
+TKT-0610,Request: Upgrade our plan to enterprise. I need an update soon.  Please advise.,Account & Subscription,Medium
+TKT-0587,"Hello team, Cancel my subscription next month. Please resolve this within a few days.  Can someone help?",Account & Subscription,Medium
+TKT-0255,Customer message: Credit card was billed unexpectedly. This is impacting my usual workflow.  Please advise.,Billing & Payments,Medium
+TKT-0016,"Hello team, Cannot log in to my account. This is impacting my usual workflow.  Thanks.",Access & Login,Medium
+TKT-0585,Please help: Cancel my subscription next month. Please resolve this within a few days.  Please advise.,Account & Subscription,Medium
+TKT-0561,Request: Request integration with our calendar. I need an update soon.  This affects our workflow.,Feature Request,Medium
+TKT-0427,"Hi support, Mobile app freezes during startup. Production is blocked right now. ASAP!  This affects our workflow.",Technical Bug,High
+TKT-0216,"Hello team, Payment declined on checkout. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Billing & Payments,High
+TKT-0272,Request: Receipt is missing from my billing history. Not blocking work; just checking.  Awaiting an update.,Billing & Payments,Low
+TKT-0047,"Hi support, Password reset link is failing. Production is blocked right now. ASAP!  Awaiting an update.",Access & Login,High
+TKT-0084,"Hi support, Single sign on authentication fails. Please resolve this within a few days.  Thanks.",Access & Login,Medium
+TKT-0030,Password reset link is failing. Not blocking work; just checking.  Thanks.,Access & Login,Low
+TKT-0697,"Request: Delete my account and data. No rush, whenever you have time.  Thanks.",Account & Subscription,Low
+TKT-0346,Page loads blank after update. I need an update soon.  Awaiting an update.,Technical Bug,Medium
+TKT-0176,"Please help: Invoice total is incorrect. No rush, whenever you have time.  Thanks.",Billing & Payments,Low
+TKT-0621,"Hi support, Upgrade our plan to enterprise. Critical business impact; please help immediately.  Thanks.",Account & Subscription,High
+TKT-0173,"Please help: Invoice total is incorrect. No rush, whenever you have time.  Can someone help?",Billing & Payments,Low
+TKT-0613,"Hello team, Upgrade our plan to enterprise. Please resolve this within a few days.  Can someone help?",Account & Subscription,Medium
+TKT-0096,Customer message: Single sign on authentication fails. Production is blocked right now. ASAP!  Can someone help?,Access & Login,High
+TKT-0311,Please help: Dashboard crashes after saving. Critical business impact; please help immediately.  Please advise.,Technical Bug,High
+TKT-0554,Please help: Request integration with our calendar. This is a suggestion for a future release.  Thanks.,Feature Request,Low
+TKT-0642,Customer message: Change the organization owner. Critical business impact; please help immediately.  This affects our workflow.,Account & Subscription,High
+TKT-0202,Customer message: Payment declined on checkout. I need an update soon.  Please advise.,Billing & Payments,Medium
+TKT-0257,Customer message: Credit card was billed unexpectedly. Critical business impact; please help immediately.  Awaiting an update.,Billing & Payments,High
+TKT-0665,Request: Update my account profile details. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Account & Subscription,High
+TKT-0291,"Hi support, Dashboard crashes after saving. This is a suggestion for a future release.",Technical Bug,Low
+TKT-0669,Request: Update my account profile details. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Account & Subscription,High
+TKT-0355,"Hello team, Page loads blank after update. URGENT: our team cannot work until this is fixed.  Please advise.",Technical Bug,High
+TKT-0231,Please help: Need a refund for an order. This is impacting my usual workflow.  Can someone help?,Billing & Payments,Medium
+TKT-0331,Application shows an error 500. Production is blocked right now. ASAP!  Thanks.,Technical Bug,High
+TKT-0166,Charged twice for my subscription. URGENT: our team cannot work until this is fixed.  Can someone help?,Billing & Payments,High
+TKT-0169,"Hi support, Invoice total is incorrect. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0312,"Hello team, Dashboard crashes after saving. Production is blocked right now. ASAP!  Please advise.",Technical Bug,High
+TKT-0157,"Hi support, Charged twice for my subscription. Please resolve this within a few days.  Can someone help?",Billing & Payments,Medium
+TKT-0603,"Please help: Upgrade our plan to enterprise. No rush, whenever you have time.  Awaiting an update.",Account & Subscription,Low
+TKT-0680,"Request: Switch subscription from monthly to annual. No rush, whenever you have time.  Can someone help?",Account & Subscription,Low
+TKT-0057,Please help: My account is locked. This is impacting my usual workflow.  Please advise.,Access & Login,Medium
+TKT-0515,Please help: Would love a custom dashboard widget. Please resolve this within a few days.,Feature Request,Medium
+TKT-0444,Please help: Please add dark mode. I need an update soon.,Feature Request,Medium
+TKT-0582,"Customer message: Cancel my subscription next month. No rush, whenever you have time.  Can someone help?",Account & Subscription,Low
+TKT-0706,Request: Delete my account and data. Please resolve this within a few days.  This affects our workflow.,Account & Subscription,Medium
+TKT-0132,"Hello team, Permission denied when opening the portal. I need an update soon.  Please advise.",Access & Login,Medium
+TKT-0353,Request: Page loads blank after update. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Technical Bug,High
+TKT-0530,"Request: Please add team activity notifications. No rush, whenever you have time.  Thanks.",Feature Request,Low
+TKT-0478,Please help: Can you support csv bulk import. Production is blocked right now. ASAP!  This affects our workflow.,Feature Request,High
+TKT-0622,Customer message: Upgrade our plan to enterprise. Critical business impact; please help immediately.  This affects our workflow.,Account & Subscription,High
+TKT-0555,Request: Request integration with our calendar. Not blocking work; just checking.  Please advise.,Feature Request,Low
+TKT-0325,"Hello team, Application shows an error 500. Please resolve this within a few days.",Technical Bug,Medium
+TKT-0129,Please help: Permission denied when opening the portal. This is impacting my usual workflow.  Can someone help?,Access & Login,Medium
+TKT-0590,"Hello team, Cancel my subscription next month. This is impacting my usual workflow.  This affects our workflow.",Account & Subscription,Medium
+TKT-0420,"Hello team, Mobile app freezes during startup. This is impacting my usual workflow.  Can someone help?",Technical Bug,Medium
+TKT-0421,Please help: Mobile app freezes during startup. I need an update soon.  This affects our workflow.,Technical Bug,Medium
+TKT-0539,Customer message: Please add team activity notifications. This is impacting my usual workflow.  Please advise.,Feature Request,Medium
+TKT-0708,Delete my account and data. Please resolve this within a few days.  Can someone help?,Account & Subscription,Medium
+TKT-0611,Please help: Upgrade our plan to enterprise. This is impacting my usual workflow.  This affects our workflow.,Account & Subscription,Medium
+TKT-0317,Request: Application shows an error 500. Not blocking work; just checking.,Technical Bug,Low
+TKT-0068,"Hi support, My account is locked. Production is blocked right now. ASAP!  Thanks.",Access & Login,High
+TKT-0089,Request: Single sign on authentication fails. Critical business impact; please help immediately.  Please advise.,Access & Login,High
+TKT-0133,Request: Permission denied when opening the portal. This is impacting my usual workflow.  Please advise.,Access & Login,Medium
+TKT-0479,Can you support csv bulk import. Critical business impact; please help immediately.,Feature Request,High
+TKT-0378,"Hello team, Integration webhook stops working. Critical business impact; please help immediately.  Can someone help?",Technical Bug,High
+TKT-0370,"Hi support, Integration webhook stops working. I need an update soon.  Awaiting an update.",Technical Bug,Medium
+TKT-0606,"Hello team, Upgrade our plan to enterprise. This is a suggestion for a future release.  Can someone help?",Account & Subscription,Low
+TKT-0506,"Hello team, Would love a custom dashboard widget. This is a suggestion for a future release.  Please advise.",Feature Request,Low
+TKT-0243,Credit card was billed unexpectedly. Not blocking work; just checking.,Billing & Payments,Low
+TKT-0143,Please help: Permission denied when opening the portal. Production is blocked right now. ASAP!  Please advise.,Access & Login,High
+TKT-0206,Payment declined on checkout. I need an update soon.  Can someone help?,Billing & Payments,Medium
+TKT-0125,Please help: Permission denied when opening the portal. This is a suggestion for a future release.  Please advise.,Access & Login,Low
+TKT-0230,Need a refund for an order. This is impacting my usual workflow.  Please advise.,Billing & Payments,Medium
+TKT-0521,Request: Would love a custom dashboard widget. Production is blocked right now. ASAP!  Thanks.,Feature Request,High
+TKT-0626,"Customer message: Change the organization owner. No rush, whenever you have time.  Thanks.",Account & Subscription,Low
+TKT-0179,Request: Invoice total is incorrect. This is impacting my usual workflow.  Can someone help?,Billing & Payments,Medium
+TKT-0162,Charged twice for my subscription. URGENT: our team cannot work until this is fixed.  Please advise.,Billing & Payments,High
+TKT-0308,Please help: Dashboard crashes after saving. Critical business impact; please help immediately.  This affects our workflow.,Technical Bug,High
+TKT-0298,"Hello team, Dashboard crashes after saving. I need an update soon.  Please advise.",Technical Bug,Medium
+TKT-0556,"Hi support, Request integration with our calendar. Not blocking work; just checking.  Awaiting an update.",Feature Request,Low
+TKT-0564,"Hello team, Request integration with our calendar. Please resolve this within a few days.  Can someone help?",Feature Request,Medium
+TKT-0067,Please help: My account is locked. URGENT: our team cannot work until this is fixed.  Thanks.,Access & Login,High
+TKT-0356,Please help: Page loads blank after update. Production is blocked right now. ASAP!  This affects our workflow.,Technical Bug,High
+TKT-0328,"Hello team, Application shows an error 500. This is impacting my usual workflow.  Awaiting an update.",Technical Bug,Medium
+TKT-0090,Customer message: Single sign on authentication fails. Critical business impact; please help immediately.  Please advise.,Access & Login,High
+TKT-0456,Request: Please add dark mode. Production is blocked right now. ASAP!  Awaiting an update.,Feature Request,High
+TKT-0177,Please help: Invoice total is incorrect. Please resolve this within a few days.,Billing & Payments,Medium
+TKT-0463,"Hello team, Can you support csv bulk import. This is a suggestion for a future release.  Awaiting an update.",Feature Request,Low
+TKT-0076,Please help: Single sign on authentication fails. This is a suggestion for a future release.  This affects our workflow.,Access & Login,Low
+TKT-0705,"Hello team, Delete my account and data. This is impacting my usual workflow.",Account & Subscription,Medium
+TKT-0126,Permission denied when opening the portal. Not blocking work; just checking.  Can someone help?,Access & Login,Low
+TKT-0698,"Hello team, Delete my account and data. This is a suggestion for a future release.  Please advise.",Account & Subscription,Low
+TKT-0503,"Hello team, Need an option to schedule reports. Critical business impact; please help immediately.  Thanks.",Feature Request,High
+TKT-0686,"Hi support, Switch subscription from monthly to annual. This is impacting my usual workflow.  Thanks.",Account & Subscription,Medium
+TKT-0220,"Customer message: Need a refund for an order. No rush, whenever you have time.  Awaiting an update.",Billing & Payments,Low
+TKT-0653,"Update my account profile details. No rush, whenever you have time.  Can someone help?",Account & Subscription,Low
+TKT-0267,Receipt is missing from my billing history. This is a suggestion for a future release.  Can someone help?,Billing & Payments,Low
+TKT-0269,Receipt is missing from my billing history. Not blocking work; just checking.  Thanks.,Billing & Payments,Low
+TKT-0121,"Request: Permission denied when opening the portal. No rush, whenever you have time.",Access & Login,Low
+TKT-0576,"Hi support, Request integration with our calendar. Production is blocked right now. ASAP!  Thanks.",Feature Request,High
+TKT-0397,"Hi support, Export button does not respond. This is impacting my usual workflow.",Technical Bug,Medium
+TKT-0531,"Hi support, Please add team activity notifications. This is a suggestion for a future release.",Feature Request,Low
+TKT-0512,"Hi support, Would love a custom dashboard widget. Not blocking work; just checking.  Can someone help?",Feature Request,Low
+TKT-0191,Request: Invoice total is incorrect. Critical business impact; please help immediately.  This affects our workflow.,Billing & Payments,High
+TKT-0027,Password reset link is failing. This is a suggestion for a future release.  Please advise.,Access & Login,Low
+TKT-0117,"Hi support, Multi factor code is not arriving. URGENT: our team cannot work until this is fixed.",Access & Login,High
+TKT-0256,Customer message: Credit card was billed unexpectedly. This is impacting my usual workflow.  Can someone help?,Billing & Payments,Medium
+TKT-0286,Receipt is missing from my billing history. Critical business impact; please help immediately.,Billing & Payments,High
+TKT-0322,Please help: Application shows an error 500. Please resolve this within a few days.  Thanks.,Technical Bug,Medium
+TKT-0693,Switch subscription from monthly to annual. Critical business impact; please help immediately.  Please advise.,Account & Subscription,High
+TKT-0627,Please help: Change the organization owner. This is a suggestion for a future release.  Thanks.,Account & Subscription,Low
+TKT-0543,Please help: Please add team activity notifications. I need an update soon.  Can someone help?,Feature Request,Medium
+TKT-0141,"Hello team, Permission denied when opening the portal. URGENT: our team cannot work until this is fixed.  This affects our workflow.",Access & Login,High
+TKT-0588,"Hi support, Cancel my subscription next month. Please resolve this within a few days.  Can someone help?",Account & Subscription,Medium
+TKT-0079,"Hi support, Single sign on authentication fails. No rush, whenever you have time.  Thanks.",Access & Login,Low
+TKT-0649,"Hello team, Update my account profile details. Not blocking work; just checking.  This affects our workflow.",Account & Subscription,Low
+TKT-0381,Request: Integration webhook stops working. Critical business impact; please help immediately.  Awaiting an update.,Technical Bug,High
+TKT-0380,Request: Integration webhook stops working. URGENT: our team cannot work until this is fixed.  This affects our workflow.,Technical Bug,High
+TKT-0461,"Can you support csv bulk import. No rush, whenever you have time.  This affects our workflow.",Feature Request,Low
+TKT-0158,Please help: Charged twice for my subscription. Please resolve this within a few days.  Can someone help?,Billing & Payments,Medium
+TKT-0620,Please help: Upgrade our plan to enterprise. Production is blocked right now. ASAP!  Can someone help?,Account & Subscription,High
+TKT-0034,Please help: Password reset link is failing. I need an update soon.  This affects our workflow.,Access & Login,Medium
+TKT-0581,"Request: Cancel my subscription next month. No rush, whenever you have time.  Can someone help?",Account & Subscription,Low
+TKT-0393,"Hello team, Export button does not respond. I need an update soon.  Please advise.",Technical Bug,Medium
+TKT-0371,Integration webhook stops working. This is impacting my usual workflow.  Thanks.,Technical Bug,Medium
+TKT-0376,Please help: Integration webhook stops working. I need an update soon.  Awaiting an update.,Technical Bug,Medium
+TKT-0242,Customer message: Credit card was billed unexpectedly. This is a suggestion for a future release.,Billing & Payments,Low
+TKT-0069,"Hello team, My account is locked. Production is blocked right now. ASAP!  Awaiting an update.",Access & Login,High
+TKT-0130,"Hello team, Permission denied when opening the portal. Please resolve this within a few days.  Awaiting an update.",Access & Login,Medium
+TKT-0036,Please help: Password reset link is failing. Please resolve this within a few days.  Please advise.,Access & Login,Medium
+TKT-0449,"Hi support, Please add dark mode. Critical business impact; please help immediately.  Awaiting an update.",Feature Request,High
+TKT-0623,Please help: Upgrade our plan to enterprise. Critical business impact; please help immediately.,Account & Subscription,High
+TKT-0147,"Hello team, Charged twice for my subscription. No rush, whenever you have time.  This affects our workflow.",Billing & Payments,Low
+TKT-0032,Request: Password reset link is failing. Not blocking work; just checking.  Please advise.,Access & Login,Low
+TKT-0164,"Hello team, Charged twice for my subscription. URGENT: our team cannot work until this is fixed.  This affects our workflow.",Billing & Payments,High
+TKT-0526,"Hello team, Would love a custom dashboard widget. Critical business impact; please help immediately.  Awaiting an update.",Feature Request,High
+TKT-0373,Please help: Integration webhook stops working. This is impacting my usual workflow.  This affects our workflow.,Technical Bug,Medium
+TKT-0416,"Please help: Mobile app freezes during startup. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0077,Single sign on authentication fails. This is a suggestion for a future release.  Awaiting an update.,Access & Login,Low
+TKT-0059,My account is locked. This is impacting my usual workflow.,Access & Login,Medium
+TKT-0282,Customer message: Receipt is missing from my billing history. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Billing & Payments,High
+TKT-0446,Please help: Please add dark mode. I need an update soon.  Can someone help?,Feature Request,Medium
+TKT-0630,Customer message: Change the organization owner. Not blocking work; just checking.,Account & Subscription,Low
+TKT-0362,"Request: Integration webhook stops working. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0044,Request: Password reset link is failing. Critical business impact; please help immediately.  This affects our workflow.,Access & Login,High
+TKT-0458,"Please help: Can you support csv bulk import. No rush, whenever you have time.  This affects our workflow.",Feature Request,Low
+TKT-0360,Please help: Page loads blank after update. Production is blocked right now. ASAP!,Technical Bug,High
+TKT-0455,Please add dark mode. Production is blocked right now. ASAP!  Thanks.,Feature Request,High
+TKT-0171,"Hi support, Invoice total is incorrect. No rush, whenever you have time.  This affects our workflow.",Billing & Payments,Low
+TKT-0437,"Hi support, Please add dark mode. No rush, whenever you have time.  Please advise.",Feature Request,Low
+TKT-0618,Customer message: Upgrade our plan to enterprise. Production is blocked right now. ASAP!,Account & Subscription,High
+TKT-0457,"Please help: Can you support csv bulk import. No rush, whenever you have time.",Feature Request,Low
+TKT-0314,Request: Application shows an error 500. Not blocking work; just checking.  Please advise.,Technical Bug,Low
+TKT-0303,Customer message: Dashboard crashes after saving. Please resolve this within a few days.  Thanks.,Technical Bug,Medium
+TKT-0336,"Hi support, Application shows an error 500. Production is blocked right now. ASAP!  Awaiting an update.",Technical Bug,High
+TKT-0082,"Hi support, Single sign on authentication fails. Please resolve this within a few days.  Thanks.",Access & Login,Medium
+TKT-0106,Customer message: Multi factor code is not arriving. Please resolve this within a few days.  Please advise.,Access & Login,Medium
+TKT-0329,"Hello team, Application shows an error 500. URGENT: our team cannot work until this is fixed.  Awaiting an update.",Technical Bug,High
+TKT-0701,"Hello team, Delete my account and data. This is a suggestion for a future release.  Please advise.",Account & Subscription,Low
+TKT-0559,Please help: Request integration with our calendar. Not blocking work; just checking.  Please advise.,Feature Request,Low
+TKT-0185,Request: Invoice total is incorrect. Production is blocked right now. ASAP!  This affects our workflow.,Billing & Payments,High
+TKT-0617,Customer message: Upgrade our plan to enterprise. Production is blocked right now. ASAP!,Account & Subscription,High
+TKT-0441,"Hi support, Please add dark mode. This is impacting my usual workflow.  This affects our workflow.",Feature Request,Medium
+TKT-0081,Request: Single sign on authentication fails. Please resolve this within a few days.,Access & Login,Medium
+TKT-0435,"Hi support, Please add dark mode. No rush, whenever you have time.",Feature Request,Low
+TKT-0085,Please help: Single sign on authentication fails. Please resolve this within a few days.,Access & Login,Medium
+TKT-0274,"Hello team, Receipt is missing from my billing history. I need an update soon.  This affects our workflow.",Billing & Payments,Medium
+TKT-0532,Please add team activity notifications. Not blocking work; just checking.,Feature Request,Low
+TKT-0679,"Customer message: Switch subscription from monthly to annual. No rush, whenever you have time.  Please advise.",Account & Subscription,Low
+TKT-0510,"Please help: Would love a custom dashboard widget. No rush, whenever you have time.",Feature Request,Low
+TKT-0509,"Request: Would love a custom dashboard widget. No rush, whenever you have time.  Please advise.",Feature Request,Low
+TKT-0192,Customer message: Invoice total is incorrect. Critical business impact; please help immediately.  Awaiting an update.,Billing & Payments,High
+TKT-0348,Please help: Page loads blank after update. I need an update soon.  Can someone help?,Technical Bug,Medium
+TKT-0396,Customer message: Export button does not respond. This is impacting my usual workflow.  Awaiting an update.,Technical Bug,Medium
+TKT-0451,Request: Please add dark mode. Critical business impact; please help immediately.,Feature Request,High
+TKT-0410,"Customer message: Mobile app freezes during startup. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0448,Please help: Please add dark mode. This is impacting my usual workflow.  Can someone help?,Feature Request,Medium
+TKT-0377,Request: Integration webhook stops working. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Technical Bug,High
+TKT-0128,"Hi support, Permission denied when opening the portal. Not blocking work; just checking.  This affects our workflow.",Access & Login,Low
+TKT-0280,"Hello team, Receipt is missing from my billing history. I need an update soon.  This affects our workflow.",Billing & Payments,Medium
+TKT-0340,Request: Page loads blank after update. Not blocking work; just checking.  Thanks.,Technical Bug,Low
+TKT-0672,"Hi support, Update my account profile details. Critical business impact; please help immediately.",Account & Subscription,High
+TKT-0049,"Hi support, My account is locked. Not blocking work; just checking.  Please advise.",Access & Login,Low
+TKT-0366,"Request: Integration webhook stops working. No rush, whenever you have time.  This affects our workflow.",Technical Bug,Low
+TKT-0293,"Please help: Dashboard crashes after saving. No rush, whenever you have time.  Awaiting an update.",Technical Bug,Low
+TKT-0196,"Payment declined on checkout. No rush, whenever you have time.",Billing & Payments,Low
+TKT-0663,"Hello team, Update my account profile details. This is impacting my usual workflow.  Thanks.",Account & Subscription,Medium
+TKT-0710,Please help: Delete my account and data. Please resolve this within a few days.,Account & Subscription,Medium
+TKT-0260,"Hello team, Credit card was billed unexpectedly. Critical business impact; please help immediately.  Please advise.",Billing & Payments,High
+TKT-0485,Need an option to schedule reports. This is a suggestion for a future release.  This affects our workflow.,Feature Request,Low
+TKT-0557,"Hi support, Request integration with our calendar. No rush, whenever you have time.  Can someone help?",Feature Request,Low
+TKT-0408,Customer message: Export button does not respond. Critical business impact; please help immediately.  Please advise.,Technical Bug,High
+TKT-0528,Customer message: Would love a custom dashboard widget. Production is blocked right now. ASAP!  Awaiting an update.,Feature Request,High
+TKT-0318,"Please help: Application shows an error 500. No rush, whenever you have time.  Please advise.",Technical Bug,Low
+TKT-0324,"Hi support, Application shows an error 500. I need an update soon.  Awaiting an update.",Technical Bug,Medium
+TKT-0043,"Hi support, Password reset link is failing. Production is blocked right now. ASAP!",Access & Login,High
+TKT-0205,Please help: Payment declined on checkout. I need an update soon.  This affects our workflow.,Billing & Payments,Medium
+TKT-0045,Request: Password reset link is failing. Critical business impact; please help immediately.,Access & Login,High
+TKT-0207,"Hello team, Payment declined on checkout. Please resolve this within a few days.  This affects our workflow.",Billing & Payments,Medium
+TKT-0301,"Hi support, Dashboard crashes after saving. I need an update soon.  Awaiting an update.",Technical Bug,Medium
+TKT-0038,Please help: Password reset link is failing. Please resolve this within a few days.  Please advise.,Access & Login,Medium
+TKT-0469,Request: Can you support csv bulk import. I need an update soon.  Can someone help?,Feature Request,Medium
+TKT-0065,Request: My account is locked. Critical business impact; please help immediately.  Awaiting an update.,Access & Login,High
+TKT-0139,Request: Permission denied when opening the portal. Critical business impact; please help immediately.  This affects our workflow.,Access & Login,High
+TKT-0187,"Hi support, Invoice total is incorrect. Critical business impact; please help immediately.  Awaiting an update.",Billing & Payments,High
+TKT-0647,Please help: Change the organization owner. Production is blocked right now. ASAP!  This affects our workflow.,Account & Subscription,High
+TKT-0491,Customer message: Need an option to schedule reports. This is impacting my usual workflow.  This affects our workflow.,Feature Request,Medium
+TKT-0476,Customer message: Can you support csv bulk import. URGENT: our team cannot work until this is fixed.  Can someone help?,Feature Request,High
+TKT-0702,"Please help: Delete my account and data. No rush, whenever you have time.  Thanks.",Account & Subscription,Low
+TKT-0180,Invoice total is incorrect. This is impacting my usual workflow.  Awaiting an update.,Billing & Payments,Medium
+TKT-0659,Please help: Update my account profile details. Please resolve this within a few days.  Can someone help?,Account & Subscription,Medium
+TKT-0347,Please help: Page loads blank after update. Please resolve this within a few days.  Please advise.,Technical Bug,Medium
+TKT-0560,Customer message: Request integration with our calendar. Not blocking work; just checking.,Feature Request,Low
+TKT-0361,Customer message: Integration webhook stops working. This is a suggestion for a future release.  Thanks.,Technical Bug,Low
+TKT-0046,Customer message: Password reset link is failing. Critical business impact; please help immediately.  Please advise.,Access & Login,High
+TKT-0137,Please help: Permission denied when opening the portal. Production is blocked right now. ASAP!  This affects our workflow.,Access & Login,High
+TKT-0341,"Hi support, Page loads blank after update. Not blocking work; just checking.  Please advise.",Technical Bug,Low
+TKT-0596,Customer message: Cancel my subscription next month. URGENT: our team cannot work until this is fixed.  Awaiting an update.,Account & Subscription,High
+TKT-0107,Customer message: Multi factor code is not arriving. Please resolve this within a few days.  Awaiting an update.,Access & Login,Medium
